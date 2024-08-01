@@ -24,6 +24,7 @@ Winning: Guess the number correctly within the given tries to win.
 
 
 # How to Play
+Run this .py file in vs code or any other platform and enjoy 😍
 Choose your level: Easy (1), Medium (2), or Hard (3).
 
 Enter the number of tries you want.
